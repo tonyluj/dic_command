@@ -5,7 +5,7 @@ import sys
 from BeautifulSoup import BeautifulSoup
 
 
-# get the word from commond
+# get the word from command
 word = sys.argv[1]
 
 # get the content of the bing
